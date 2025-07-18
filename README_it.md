@@ -1,3 +1,7 @@
+🌐 [English](README.md) | [简体中文](README_zh-CN.md) | [繁體中文](README_zh-TW.md) | [Español](README_es.md) | [हिन्दी](README_hi.md) | [العربية](README_ar.md) | [Русский](README_ru.md) | [Français](README_fr.md) | [日本語](README_ja.md) | [Português](README_pt.md) | [Deutsch](README_de.md) | [Bahasa Indonesia](README_id.md) | [한국어](README_ko.md) | [Italiano](README_it.md)
+
+---
+
 ## 📝 Introduzione al progetto
 
 [UFreeTools](https://www.ufreetools.com/it) è un toolbox multifunzionale che fornisce strumenti online di alta qualità e facili da usare. Offriamo strumenti per sviluppo, design, conversione di file, editing di testo, elaborazione di immagini, rete, sicurezza delle password, efficienza pratica e rilevamento topografico. I nostri strumenti non richiedono registrazione, sono gratuiti, disponibili in qualsiasi momento e tutte le operazioni vengono eseguite localmente nel browser senza caricamento sul server.

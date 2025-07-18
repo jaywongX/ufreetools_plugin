@@ -1,3 +1,7 @@
+🌐 [English](README.md) | [简体中文](README_zh-CN.md) | [繁體中文](README_zh-TW.md) | [Español](README_es.md) | [हिन्दी](README_hi.md) | [العربية](README_ar.md) | [Русский](README_ru.md) | [Français](README_fr.md) | [日本語](README_ja.md) | [Português](README_pt.md) | [Deutsch](README_de.md) | [Bahasa Indonesia](README_id.md) | [한국어](README_ko.md) | [Italiano](README_it.md)
+
+---
+
 # 🚀 UFreeTools - Ваш бесплатный набор инструментов
 
 ## 📝 Описание проекта
